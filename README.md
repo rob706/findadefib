@@ -1,4 +1,4 @@
-# Defib Track
+# Find A Defib
 
 This app is designed to help with tracking Defibrilators (AED's) and thier associated components
 
