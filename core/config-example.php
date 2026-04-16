@@ -26,4 +26,8 @@ $fromd = date("Y-m-d H:i:s", strtotime(date("Y-m-d"))-(60*60*24*7));
 $conn = new mysqli($server, $user, $pass, $db);
 $conn_update = new mysqli($server, $user_u, $pass_u, $db);
 
+## Google Maps Integration
+
+$GM_MapsAPIKey = "xxxxx";
+
 ?>

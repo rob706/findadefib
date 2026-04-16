@@ -4,3 +4,4 @@ images/*
 !images/info.txt
 
 *.dev
+dev/*
